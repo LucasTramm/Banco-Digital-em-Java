@@ -1,3 +1,4 @@
+----
 ## 🚀 Funcionalidades
 
 - Login de usuário (simulado)
@@ -24,5 +25,6 @@ javac banco/Main.java
 
 3. Execute o programa:
 java banco.Main
+
 
 
