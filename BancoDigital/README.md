@@ -1,18 +1,25 @@
-## Getting Started
+🚀 Funcionalidades
+- Login de usuário (simulado)
+- Escolha de tipo de conta:
+  - Conta Corrente
+  - Conta Poupança
+- Operações bancárias:
+  - Consultar saldo
+  - Depositar
+  - Sacar
+  - Pagar boletos
+  - Logout e retorno ao login
+- Estrutura organizada em pacotes (`modelo`, `interfaces`, `servico`)
 
-Welcome to the VS Code Java world. Here is a guideline to help you get started to write Java code in Visual Studio Code.
+----
 
-## Folder Structure
+## ▶️ Como Executar
 
-The workspace contains two folders by default, where:
+1. Clone o repositório:
+git clone https://github.com/seu-usuario/banco-digital-java.git
 
-- `src`: the folder to maintain sources
-- `lib`: the folder to maintain dependencies
+2. Compile os arquivos:
+javac banco/Main.java
 
-Meanwhile, the compiled output files will be generated in the `bin` folder by default.
-
-> If you want to customize the folder structure, open `.vscode/settings.json` and update the related settings there.
-
-## Dependency Management
-
-The `JAVA PROJECTS` view allows you to manage your dependencies. More details can be found [here](https://github.com/microsoft/vscode-java-dependency#manage-dependencies).
+3. Execute o programa:
+java banco.Main
