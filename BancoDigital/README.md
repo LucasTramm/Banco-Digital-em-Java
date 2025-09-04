@@ -10,7 +10,7 @@
   - Depositar
   - Sacar
   - Pagar boletos
-  - Logout e retorno ao login
+  - Sair do sistema e retorno ao login
 - Estrutura organizada em pacotes (`modelo`, `interfaces`, `servico`)
 
 ----
@@ -25,6 +25,7 @@ javac banco/Main.java
 
 3. Execute o programa:
 java banco.Main
+
 
 
 
