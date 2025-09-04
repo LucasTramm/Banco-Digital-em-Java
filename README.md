@@ -14,7 +14,7 @@ Projeto simples de **Banco Digital** feito em Java, utilizando conceitos de **Pr
   - Depositar
   - Sacar
   - Pagar boletos
-  - Logout e retorno ao login
+  - Sair do sistema e retorno ao login
 - Estrutura organizada em pacotes (`modelo`, `interfaces`)
 
 ---
