@@ -1,4 +1,6 @@
-🚀 Funcionalidades
+## 🚀 Funcionalidades
+---
+
 - Login de usuário (simulado)
 - Escolha de tipo de conta:
   - Conta Corrente
@@ -23,3 +25,4 @@ javac banco/Main.java
 
 3. Execute o programa:
 java banco.Main
+
