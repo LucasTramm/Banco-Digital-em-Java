@@ -21,15 +21,15 @@ Projeto simples de **Banco Digital** feito em Java, utilizando conceitos de **Pr
 
 ## 📂 Estrutura do Projeto
 src/
-└── banco/
-├── Main.java # Ponto de entrada
-├── modelo/ # Classes de domínio
-│ ├── Cliente.java
-│ ├── Conta.java
-│ ├── ContaCorrente.java
-│ └── ContaPoupanca.java
-├── interfaces/ # Contratos
-│ └── IConta.java
+banco/
+Main.java # Ponto de entrada
+--modelo/ # Classes de domínio
+Cliente.java
+Conta.java
+ContaCorrente.java
+ContaPoupanca.java
+--interfaces/ # Contratos
+IConta.java
 
 ---
 
